@@ -81,6 +81,9 @@ in [`pom.xml`](pom.xml).
 
 To run the test cases against a running sample application, use the following command
 ```
+
+
+sep 18
 mvnw failsafe:integration-test
 ```
 
